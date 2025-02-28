@@ -113,8 +113,8 @@ theme: matery
 deploy:
 - type: git
   repository:
-    github: git@github.com:godweiyang/godweiyang.github.io.git
-    coding: git@e.coding.net:godweiyang/godweiyang.git
+    github: git@github.com:BingoCa1t/BingoCa1t.github.io.git
+    coding: git@e.coding.net:BingoCa1t/BingoCa1t.git
   branch: master
 - type: baidu_url_submitter
 
